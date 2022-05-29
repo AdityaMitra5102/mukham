@@ -8,7 +8,7 @@ function About() {
   return (
     <div>
       <div className="section about-bg">
-        <h1 style={{ textAlign: "center" }}>MUKHAM!?</h1>
+        <h1 style={{ textAlign: "center" }}>MUKHAM...</h1>
       </div>
 
       <div className="section fdc">

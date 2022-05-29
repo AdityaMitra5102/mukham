@@ -49,12 +49,22 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={appstore_button} alt="playstore" style={{height:"100%", width:"245px"}} className="appstore"/>
+            <img
+              src={appstore_button}
+              alt="playstore"
+              style={{ height: "100%", width: "245px" }}
+              className="appstore"
+            />
           </a>
         </div>
       </div>
       <div className="copyright">
-        <p>© Copyright MUKHAM. All Rights Reserved</p>
+        <p>
+          © Copyright MUKHAM. All Rights Reserved <br />
+          <a href="mukham.in/t&c.html">Terms and Conditions</a>{" "}
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="http://mukham.in/privacypolicy.html">Privacy Policy</a>
+        </p>
       </div>
     </footer>
   );

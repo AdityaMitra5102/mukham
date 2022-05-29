@@ -7,7 +7,7 @@ import aditya from "../assets/aditya.jpg";
 import neha from "../assets/neha.jpg";
 import manasa from "../assets/manasa.jpg";
 import harshith from "../assets/harshith.jpg";
-import sesha from "../assets/sesha.jpg";
+import sesha from "../assets/Sesha.jpeg";
 import tanush from "../assets/tanush.jpg";
 import TeamCard from "./TeamCard";
 
