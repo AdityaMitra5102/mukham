@@ -61,7 +61,7 @@ function Footer() {
       <div className="copyright">
         <p>
           © Copyright MUKHAM. All Rights Reserved <br />
-          <a href="mukham.in/t&c.html">Terms and Conditions</a>{" "}
+          <a href="/t&c.html">Terms and Conditions</a>{" "}
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a href="http://mukham.in/privacypolicy.html">Privacy Policy</a>
         </p>
